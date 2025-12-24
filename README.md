@@ -1,1 +1,0 @@
-# Mini-quiz-game
